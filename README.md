@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Amos Mwongela.
-- 👀 I’m interested in finding solutions for the dynamic technology.
-- 🌱 I’m currently learning JavaScript frameworks.
-- 💞️ I’m looking to collaborate on tech based projects.
-- 📫 How to reach me :I tweet @cm_amos
-                     :email me , amosmwongelah@gmail.com
-
-
+👨‍🎓 I am Amos Mwongela,pursuing my Bachelors in Software Engineering and will graduate in mid 2024.
+👩‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning technology.
+📝 I love reading books on personal development & financial literacy.
