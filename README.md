@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://github.com/omsamiir">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omsamiir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src=""[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)/>
     </a>
 </p>
     <a href="https://github.com/omsamiir"><img alt="omsamiir's Github Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm-amos)](https://github.com/cm-amos/github-readme-stats)" /></a>
