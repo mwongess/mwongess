@@ -18,12 +18,12 @@
  </h2>
 
 <p align="center">
-    <a href="https://github.com/omsamiir">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src=""[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)/>
+    <a href="https://github.com/cm-amos">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src=""[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm-amos)](https://github.com/cm-amos/github-readme-stats)/>
     </a>
 </p>
-    <a href="https://github.com/omsamiir"><img alt="omsamiir's Github Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm-amos)](https://github.com/cm-amos/github-readme-stats)" /></a>
-  <a href="https://github.com/cm-amos"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cm-amos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
+    <a href="https://github.com/cm-amos"><img alt="cm-amos's Github Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm-amos)](https://github.com/cm-amos/github-readme-stats)" /></a>
+  <a href="https://github.com/cm-amos"><img alt="cm-amos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cm-amos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
   <br/>
 
 <h1 align="center"> 
