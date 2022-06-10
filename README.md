@@ -1,5 +1,4 @@
-![cm-amos](https://github.com/cm-amos/cm-amos/blob/main/banner/.gif)4ouR04.gif4ouR04.gif4ouR04.gif4ouR04.gif
-
+![cm-amos](https://github.com/cm-amos/cm-amos/blob/main/banner/.gif)4ouR04.gif
 <h1 align="center"> 
 
 ![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge)
