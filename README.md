@@ -19,7 +19,7 @@
 </center>
 
 <p align="center">
-  <a href="https://github.com/marville001?tab=followers">
+  <a href="https://github.com/4ouR04?tab=followers">
     <img src="https://img.shields.io/github/followers/4ouR04?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
