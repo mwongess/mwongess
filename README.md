@@ -5,8 +5,7 @@
 
 </h1>
 
-👨‍🎓 I am __Amos Mwongela Gabriel__
-I am pursuing Bachelors of science in Software Engineering and will graduate in mid 2024.
+👨‍🎓 I am __Amos Mwongela Gabriel__  pursuing Bachelors of science in Software Engineering and will graduate in mid 2024.
 👩‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning technology.
 📝 I love reading books on personal development and tech literacy.
 
