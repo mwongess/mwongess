@@ -9,11 +9,18 @@
 👩‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning technology.
 📝 I love reading books on personal development and tech literacy.
 
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=4ouR04&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=4ouR04&theme=dark" /></td>      
+  </tr>   
+  </table>
+</center>
 
- <h2 align="center">
-
- ![Github-stats](https://img.shields.io/badge/Github-Stats-%23F46DB0?style=for-the-badge)
- 
- </h2>
-
+<p align="center">
+  <a href="https://github.com/marville001?tab=followers">
+    <img src="https://img.shields.io/github/followers/4ouR04?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
 
