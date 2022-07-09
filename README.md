@@ -15,7 +15,7 @@ In __2022__ my favourite language is __Typescript__ and im looking foward to exp
   <tr>
       <td><img width="380px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=4ouR04&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
       <td><img width="380px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=4ouR04&theme=dark" /></td>    
-      <td><img width="380px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ouR04&langs_count=8&theme=dark&layout=compact" /></td>
+<!--       <td><img width="380px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ouR04&langs_count=8&theme=dark&layout=compact" /></td> -->
   </tr>   
   </table>
 </center>
