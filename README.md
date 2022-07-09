@@ -18,6 +18,9 @@ In __2022__ my favourite language is __Typescript__ and im looking foward to exp
   </tr>   
   </table>
 </center>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
+</a>
 
 <p align="center">
   <a href="https://github.com/4ouR04?tab=followers">
