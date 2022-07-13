@@ -8,8 +8,7 @@
 👨‍🎓 I am [Amos Mwongela Gabriel](https://linktr.ee/4ouR04)  pursuing Bachelors of science in Software Engineering and will graduate in mid 2024.
 👩‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning technology.
 📝 I love reading books on personal development and tech literacy.
-
-In __2022__ my favourite language is __Typescript__ and im looking foward to exploiting my full potential in javascript and build great projects.My all time __Dream__ has been to become a __Full Stack Javascript Developer__ though im still learning other languages and technologies.  
+  
 <center>
   <table>
   <tr>
