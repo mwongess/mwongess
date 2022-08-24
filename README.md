@@ -5,9 +5,9 @@
 
 </h1>
 
-👨‍🎓 I am [Amos Mwongela Gabriel](https://linktr.ee/4ouR04)  pursuing Bachelors of science in Software Engineering and will graduate in mid 2024.
+👨‍🎓 I am [Amos Mwongela Gabriel](https://linktr.ee/4ouR04) a __Full Stack Software Engineer__ specializing in javascript and typescript.
 👩‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning technology.
-📝 I love reading books on personal development and tech literacy.
+
   
 <center>
   <table>
