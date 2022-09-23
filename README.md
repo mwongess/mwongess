@@ -7,7 +7,7 @@
 </h1>
 
 👨‍🎓 I am [Amos Mwongela Gabriel](https://linktr.ee/4ouR04) a **Full Stack Software Engineer** specializing in **Javascript** and **Typescript**.
-👩‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology.
+👩‍💻 I enjoy contributing to Open Source Projects and I am really enthusiastic about learning new technology.
 
 <center>
   <table>
