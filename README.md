@@ -1,4 +1,4 @@
-![4ouR04](https://github.com/4ouR04/4ouR04/blob/main/banner/intro.gif)
+![4ouR04](https://github.com/4ouR04/4ouR04/blob/main/banner/intro.mp4)
 
 <h1 align="center">
 
