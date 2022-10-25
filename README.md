@@ -1,7 +1,3 @@
-![4ouR04](https://github.com/4ouR04/4ouR04/blob/main/banner/intro.mp4)
-
-<h1 align="center">
-
 ![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge)
 
 </h1>
