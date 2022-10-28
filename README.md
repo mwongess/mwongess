@@ -5,6 +5,10 @@
 👨‍🎓 I am [Amos Mwongela Gabriel](https://linktr.ee/4ouR04) a **Full Stack Software Engineer** specializing in **Javascript** and **Typescript**.
 👩‍💻 I enjoy contributing to Open Source Projects and I am really enthusiastic about learning new technology.
 
+
+### SKILLS
+HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, NestJs, Python, Java , C, MsSQL, MySQL & Mongodb.
+
 <center>
   <table>
   <tr>
@@ -21,5 +25,4 @@
   </a>
 </p> -->
 
-### SKILLS
-HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, NestJs, Python, Java , C, MsSQL, MySQL & Mongodb.
+
