@@ -15,11 +15,11 @@
   </table>
 </center>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/4ouR04?tab=followers">
     <img src="https://img.shields.io/github/followers/4ouR04?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-</p>
+</p> -->
 
 ### SKILLS
-HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, NestJs, MsSQL, MySQL,MongoDb 
+HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, NestJs, MsSQL, MySQL,MongoDb .C, Java.
