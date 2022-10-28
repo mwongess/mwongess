@@ -22,4 +22,4 @@
 </p> -->
 
 ### SKILLS
-HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, NestJs, MsSQL, MySQL,MongoDb .C, Java.
+HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, NestJs, MsSQL, MySQL,MongoDb ,Python, Java & C.
