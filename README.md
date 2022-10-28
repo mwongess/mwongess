@@ -20,3 +20,6 @@
     <img src="https://img.shields.io/github/followers/4ouR04?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
+
+### SKILLS
+HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, NestJs, MsSQL, MySQL,MongoDb 
