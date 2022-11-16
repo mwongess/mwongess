@@ -7,7 +7,7 @@ a **Full Stack Software Engineer** .
 👩‍💻 I enjoy contributing to Open Source Projects and I am really enthusiastic about learning new technology.
 
 
-### SKILLS
+### SKILL SET
 HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, NestJs, Python, Java , C, MsSQL, MySQL & Mongodb.
 
 <center>
