@@ -2,7 +2,7 @@
 
 </h1>
 
-👨‍🎓 I am [Amos Mwongela Gabriel](https://linktr.ee/4ouR04) ,
+👨‍🎓 I am [Amos Mwongela Gabriel](https://linktr.ee/mwongess) ,
 a **Full Stack Software Engineer** .
 👩‍💻 I enjoy contributing to Open Source Projects and I am really enthusiastic about learning new technology.
 
@@ -13,16 +13,16 @@ HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, Nest
 <center>
   <table>
   <tr>
-      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=4ouR04&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=4ouR04&theme=dark" /></td>    
+      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=mwongess&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mwongess&theme=dark" /></td>    
      
   </tr>   
   </table>
 </center>
 
 <!-- <p align="center">
-  <a href="https://github.com/4ouR04?tab=followers">
-    <img src="https://img.shields.io/github/followers/4ouR04?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/mwongess?tab=followers">
+    <img src="https://img.shields.io/github/followers/mwongess?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p> -->
 
