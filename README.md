@@ -20,10 +20,10 @@ HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, Nest
   </table>
 </center>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/mwongess?tab=followers">
     <img src="https://img.shields.io/github/followers/mwongess?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-</p> -->
+</p>
 
 
