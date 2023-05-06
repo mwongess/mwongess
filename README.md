@@ -2,7 +2,7 @@
 
 </h1>
 
-👨‍🎓 I am [Amos Mwongela Gabriel](https://linktr.ee/mwongess) ,
+👨‍🎓 I am [Amos Mwongela](https://linktr.ee/mwongess) ,
 a **Full Stack Software Engineer** .
 👩‍💻 I enjoy contributing to Open Source Projects and I am really enthusiastic about learning new technology.
 
