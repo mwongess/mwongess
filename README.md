@@ -1,7 +1,6 @@
 ![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge)
 
-</h1>
-Welcome to my GitHub profile!<br>
+## Welcome to my GitHub profile!<br>
 My name is Amos Mwongela,
 and i am a talented full-stack software engineer with a passion for creating elegant, robust, and scalable applications.<br>
 My work is driven by a desire to create user-friendly and intuitive interfaces that enhance the user experience.
