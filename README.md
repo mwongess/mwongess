@@ -3,8 +3,8 @@
 </h1>
 
 👨‍🎓 I am [Amos Mwongela](https://linktr.ee/mwongess) ,
-a **Full Stack Software Engineer** .
-👩‍💻 I enjoy contributing to Open Source Projects and I am really enthusiastic about learning new technology.
+a talented full-stack software engineer with a passion for creating elegant, robust, and scalable applications.
+👩‍💻My work is driven by a desire to create user-friendly and intuitive interfaces that enhance the user experience.
 
 
 ### SKILL SET
