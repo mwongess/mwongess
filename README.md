@@ -8,7 +8,7 @@ a **Full Stack Software Engineer** .
 
 
 ### SKILL SET
-HTML5, CSS3, SASS, Bootstrap, Javascript, Typescript, Angular, Vue, NodeJs, NestJs, Python, Java , C, MsSQL, MySQL & Mongodb.
+HTML5, CSS3, SASS, Bootstrap,Tailwind CSS, Javascript, Typescript, Angular, Vue,Sveltekit, NodeJs, NestJs, Python, Java , C, MsSQL, MySQL & Mongodb.
 
 <center>
   <table>
