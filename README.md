@@ -1,9 +1,9 @@
 ![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge)
 
 </h1>
-
-👨‍🎓 I am [Amos Mwongela](https://linktr.ee/mwongess) ,
-a talented full-stack software engineer with a passion for creating elegant, robust, and scalable applications.
+Welcome to my GitHub profile!
+👨‍🎓 My name is [Amos Mwongela](https://linktr.ee/mwongess) ,
+and i am a talented **full-stack software engineer** with a passion for creating elegant, robust, and scalable applications.
 👩‍💻My work is driven by a desire to create user-friendly and intuitive interfaces that enhance the user experience.
 
 
