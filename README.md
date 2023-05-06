@@ -20,10 +20,10 @@ My work is driven by a desire to create user-friendly and intuitive interfaces t
   </table>
 </center>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mwongess?tab=followers">
     <img src="https://img.shields.io/github/followers/mwongess?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
-
+ -->
 
