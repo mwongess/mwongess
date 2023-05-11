@@ -1,5 +1,5 @@
 
-## Welcome to my GitHub profile!<br>
+## 💫 Welcome to my GitHub profile!<br>
 
 ![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge)
 
