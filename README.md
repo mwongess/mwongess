@@ -8,10 +8,10 @@ and i am a talented full-stack software engineer with a passion for creating ele
 My work is driven by a desire to create user-friendly and intuitive interfaces that enhance the user experience.
 
 
-### SKILL SET
+### 💻 SKILL SET
 `HTML5`, `CSS3`, `SASS`, `Bootstrap`,`Tailwind CSS`, `Javascript`, `Typescript`, `Angular`, `Vue`,`Sveltekit`, `NodeJs`, `NestJs`, `PHP`,`Python`, `Java` , `C`, `MsSQL`, `MySQL`,`Firebase` & `Mongodb`.
 
-# 📊 GitHub Stats:
+### 📊 GITHUB STATS:
 <center>
   <table>
   <tr>
