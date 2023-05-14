@@ -11,6 +11,8 @@ My work is driven by a desire to create user-friendly and intuitive interfaces t
 ### 💻 SKILL SET
 `HTML5`, `CSS3`, `SASS`, `Bootstrap`,`Tailwind CSS`, `Javascript`, `Typescript`, `Angular`, `Vue`,`Sveltekit`, `NodeJs`, `NestJs`, `PHP`,`Python`, `Java` , `C`, `MsSQL`, `MySQL`,`Firebase` & `Mongodb`.
 
+ -🗓️ I’m currently learning ReactJs
+
 ### 📊 GITHUB STATS:
 <center>
   <table>
