@@ -31,4 +31,5 @@ I’m currently learning `ReactJs`.
   </a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile🤝;)](https://git.io/typing-svg)
 
