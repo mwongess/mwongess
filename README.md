@@ -25,11 +25,11 @@ I’m currently learning `ReactJs`.
   </table>
 </center>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mwongess?tab=followers">
     <img src="https://img.shields.io/github/followers/mwongess?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-</p>
+</p> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile🤝;)](https://git.io/typing-svg)
 
