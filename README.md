@@ -31,5 +31,4 @@ I’m currently learning `ReactJs`.
   </a>
 </p> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Reach+out+and+lets+work+together🤝;)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20FF61&width=435&lines=Reach+out+and+lets+work+together." alt="Typing SVG" /></a>
