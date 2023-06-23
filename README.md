@@ -11,7 +11,7 @@ I’m currently learning `React With Typesript`.
 
 
 ### 💻 SKILL SET:
-`HTML5`, `CSS3`, `SASS`, `Bootstrap`,`Tailwind CSS`, `Javascript`, `Typescript`, `React`, `Angular`, `Vue`,`Sveltekit`, `NodeJs`, `NestJs`, `PHP`,`Python`, `Java` , `C`, `MsSQL`, `MySQL`,`Firebase` & `Mongodb`.
+`HTML5`, `CSS3`, `SASS`, `Bootstrap`,`Tailwind CSS`, `Javascript`, `Typescript`, `React`, `Angular`, `Vue`,`Sveltekit`, `NodeJs`, `NestJs`, `PHP`,`Python`, `MsSQL`, `MySQL`,`Firebase` & `Mongodb`.
 
 
 ### 📊 GITHUB STATS:
