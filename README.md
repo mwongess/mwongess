@@ -31,4 +31,4 @@ I’m currently learning `Redux Toolkit`.
   </a>
 </p> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20FF61&width=435&lines=Thank+you+for+viewing+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=258f76&width=435&lines=Thank+you+for+viewing+my+profile)](https://git.io/typing-svg)
