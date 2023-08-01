@@ -18,8 +18,8 @@ I’m currently learning `Redux Toolkit`.
 <center>
   <table>
   <tr>
-      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=mwongess&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mwongess&theme=dark" /></td>    
+      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=mwongess&count_private=true&show_icons=true&theme=gotham&layout=compact" /></td>
+      <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mwongess&theme=gotham" /></td>    
      
   </tr>   
   </table>
