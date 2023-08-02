@@ -6,7 +6,7 @@ My name is **Amos Mwongela**,
 and i am a talented full-stack software engineer with a passion for creating elegant, robust, and scalable applications.<br>
 My work is driven by a desire to create user-friendly and intuitive interfaces that enhance the user experience.
 
-I’m currently learning `Redux Toolkit`.
+I’m currently learning `NEXT.js`.
 
 
 ### 💻 SKILL SET:
