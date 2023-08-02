@@ -30,7 +30,7 @@ I’m currently learning `Redux Toolkit`.
   </a>
 </p> -->
 
-### Socials
+### 🌐 Socials:
 <div align="left">
   <a href="https://twitter.com/mwongess">
     <img
