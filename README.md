@@ -10,8 +10,14 @@ I’m currently learning `NEXT.js`.
 
 
 ### 💻 SKILL SET:
+<table>
+   <tr>
+     <td>
+       
 `HTML5`, `CSS3`, `SASS`, `Bootstrap`,`Tailwind CSS`, `Javascript`, `Typescript`, `React`, `Angular`, `Sveltekit`, `NodeJs`, `NestJs`, `PHP`,`Python`, `MsSQL`, `MySQL`,`Firebase` & `Mongodb`.
-
+       </td>
+    </tr>
+</table>
 
 ### 📊 GITHUB STATS:
 <center>
