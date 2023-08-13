@@ -2,22 +2,26 @@
 
 ![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge)
 
+  <a href="https://app.daily.dev/mwongess">
+      <img 
+         src="https://api.daily.dev/devcards/5cbc86c6540840afa42ae008622c3ca7.png?r=vw4" 
+         align="right"
+         width="233"
+         alt="Amos Mwongela's Dev Card"
+         /> 
+   </a>
+
+
 My name is **Amos Mwongela**,
 and i am a talented full-stack software engineer with a passion for creating elegant, robust, and scalable applications.<br>
 My work is driven by a desire to create user-friendly and intuitive interfaces that enhance the user experience.
-
 I’m currently learning `NEXT.js`.
 
 
+
 ### 💻 SKILL SET:
-<table>
-   <tr>
-     <td>
        
 `HTML5`, `CSS3`, `SASS`, `Bootstrap`,`Tailwind CSS`, `Javascript`, `Typescript`, `React`, `Angular`, `Sveltekit`, `NodeJs`, `NestJs`, `PHP`,`Python`, `MsSQL`, `MySQL`,`Firebase` & `Mongodb`.
-       </td>
-    </tr>
-</table>
 
 ### 📊 GITHUB STATS:
 <center>
