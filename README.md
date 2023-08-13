@@ -17,12 +17,6 @@ and i am a talented full-stack software engineer with a passion for creating ele
 My work is driven by a desire to create user-friendly and intuitive interfaces that enhance the user experience.
 I’m currently learning `NEXT.js`.
 
-
-
-### 💻 SKILL SET:
-       
-`HTML5`, `CSS3`, `SASS`, `Bootstrap`,`Tailwind CSS`, `Javascript`, `Typescript`, `React`, `Angular`, `Sveltekit`, `NodeJs`, `NestJs`, `PHP`,`Python`, `MsSQL`, `MySQL`,`Firebase` & `Mongodb`.
-
 ### 🌐 Socials:
 <div align="left">
   <a href="https://twitter.com/mwongess">
@@ -38,6 +32,10 @@ I’m currently learning `NEXT.js`.
     />
   </a>
 </div>
+
+### 💻 SKILL SET:
+       
+`HTML5`, `CSS3`, `SASS`, `Bootstrap`,`Tailwind CSS`, `Javascript`, `Typescript`, `React`, `Angular`, `Sveltekit`, `NodeJs`, `NestJs`, `PHP`,`Python`, `MsSQL`, `MySQL`,`Firebase` & `Mongodb`.
 
 ### 📊 GITHUB STATS:
 <center>
