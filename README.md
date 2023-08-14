@@ -65,12 +65,13 @@ My work is driven by a desire to create user-friendly and intuitive interfaces t
   </table>
 </center>
 
-<!-- <p align="center">
-  <a href="https://github.com/mwongess?tab=followers">
-    <img src="https://img.shields.io/github/followers/mwongess?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-</p> -->
+<details>
+  <summary>📦 Packages</summary>
 
+| Name                 | A short summary                              | Install   | Downloads |
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| mssql-mate | Connect, query and execute procedurs on sqlserver | npm install mssql-mate | ![Downloads](https://img.shields.io/github/downloads/mwongess/mssql-mate/total) |
 
+</details>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=258f76&width=435&lines=Thank+you+for+viewing+my+profile)](https://git.io/typing-svg)
