@@ -14,7 +14,9 @@
 My name is **Amos Mwongela**,
 and i am a talented full-stack software engineer with a passion for creating elegant, robust, and scalable applications.<br>
 My work is driven by a desire to create user-friendly and intuitive interfaces that enhance the user experience.
-I’m currently learning `NEXT.js`.
+
+I’m currently learning  
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 
 ### 🌐 Socials:
 <div align="left">
@@ -51,7 +53,6 @@ I’m currently learning `NEXT.js`.
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-baddge&logo=microsoft%20sql%20server&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure"/>
 </p>
 
