@@ -58,7 +58,7 @@ My work is driven by a desire to create user-friendly and intuitive interfaces t
 <center>
   <table>
   <tr>
-      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=mwongess&count_private=true&show_icons=true&theme=gotham&layout=compact" /></td>
+      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=mwongess&count_private=true&show_icons=true&theme=gotham&layout=compact&rank_icon=github" /></td>
       <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mwongess&theme=gotham" /></td>    
      
   </tr>   
