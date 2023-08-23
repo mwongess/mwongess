@@ -70,7 +70,7 @@ My work is driven by a desire to create user-friendly and intuitive interfaces t
 
 | Name                 | A short summary                              | Install   | 
 | -------------------- | -------------------------------------------- | --------- |
-| mssql-mate | Connect, query and execute procedurs on sqlserver | npm install @mwongess/mssql-mate | 
+| mssql-mate | Connect, query and execute procedures on sqlserver | npm install @mwongess/mssql-mate | 
 
 </details>
 
