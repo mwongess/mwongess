@@ -68,9 +68,9 @@ My work is driven by a desire to create user-friendly and intuitive interfaces t
 <details>
   <summary>📦 Packages</summary>
 
-| Name                 | A short summary                              | Install   | Downloads |
-| -------------------- | -------------------------------------------- | --------- | --------- |
-| mssql-mate | Connect, query and execute procedurs on sqlserver | npm install mssql-mate | ![Downloads](https://img.shields.io/github/downloads/mwongess/mssql-mate/total) |
+| Name                 | A short summary                              | Install   | 
+| -------------------- | -------------------------------------------- | --------- |
+| mssql-mate | Connect, query and execute procedurs on sqlserver | npm install @mwongess/mssql-mate | 
 
 </details>
 
