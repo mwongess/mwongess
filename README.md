@@ -1,6 +1,6 @@
 <!--## ✅ Welcome to my GitHub profile!<br>-->
 
-  <a href="https://app.daily.dev/mwongess">
+  <a href="https://mwongess.vercel.app/" target="_blank">
       <img 
          src="https://api.daily.dev/devcards/5cbc86c6540840afa42ae008622c3ca7.png?r=vw4" 
          align="right"
