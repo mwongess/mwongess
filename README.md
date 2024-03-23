@@ -54,7 +54,7 @@ My work is driven by a desire to create user-friendly and intuitive interfaces t
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure"/>
 </p>
--->
+
 ### 📊 GITHUB STATS:
 <center>
   <table>
@@ -65,7 +65,7 @@ My work is driven by a desire to create user-friendly and intuitive interfaces t
   </tr>   
   </table>
 </center>
-
+-->
 <details>
   <summary>📦 Packages</summary>
 
