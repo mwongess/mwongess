@@ -1,4 +1,5 @@
 <!--## ✅ Welcome to my GitHub profile!<br>-->
+![Green Simple Personal LinkedIn Banner](https://github.com/mwongess/mwongess/assets/86522089/6006340a-8f7c-44b9-8b00-b943ed95db81)
 
   <a href="https://mwongess.vercel.app/" target="_blank">
       <img 
