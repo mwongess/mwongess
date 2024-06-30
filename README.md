@@ -1,7 +1,7 @@
 <!--## ✅ Welcome to my GitHub profile!<br>-->
 ![Green Simple Personal LinkedIn Banner](https://github.com/mwongess/mwongess/assets/86522089/6006340a-8f7c-44b9-8b00-b943ed95db81)
 
-  <a href="https://mwongess.vercel.app/" target="_blank">
+ <!-- <a href="https://mwongess.vercel.app/" target="_blank">
       <img 
          src="https://api.daily.dev/devcards/5cbc86c6540840afa42ae008622c3ca7.png?r=vw4" 
          align="right"
@@ -9,7 +9,7 @@
          alt="Amos Mwongela's Dev Card"
          /> 
    </a>
-   
+ -->  
 ![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge)
 
 I am a talented full-stack software engineer with a passion for creating elegant, robust, and scalable applications.<br>
