@@ -1,4 +1,6 @@
-![Green Simple Personal LinkedIn Banner (1)](https://github.com/mwongess/mwongess/assets/86522089/f125fad2-6dda-4123-ba7d-492198ea3c75)
+
+![banner](https://github.com/user-attachments/assets/3d2cb585-4c2f-48fb-8ac2-94ffb8e3896d)
+
 <!--## ✅ Welcome to my GitHub profile!<br>-->
 
 
