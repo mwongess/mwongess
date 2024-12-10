@@ -1,5 +1,4 @@
-
-![banner](https://github.com/user-attachments/assets/3d2cb585-4c2f-48fb-8ac2-94ffb8e3896d)
+![Amos](https://github.com/user-attachments/assets/eabf610e-0042-43b7-a17b-dd1aa1ff4363)
 
 <!--## ✅ Welcome to my GitHub profile!<br>-->
 
